@@ -1,0 +1,23 @@
+{
+  "name": "ttuttai",
+  "version": "1.0.0",
+  "description": "Ttutai is an npm library. If you want more Ttutai characters please contribute to the project. You can convert the characters to braille images and write them in the right format.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LEEKICHAN0102/Ttuttai.git"
+  },
+  "keywords": [],
+  "author": "leekichan0102",
+  "bugs": {
+    "url": "https://github.com/LEEKICHAN0102/Ttuttai/issues"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "typescript": "^5.5.3"
+  }
+}
